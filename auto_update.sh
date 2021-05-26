@@ -1,2 +1,2 @@
-cd /var/www/html/public/HFUT课程资料
+cd public/1.hfut_courses
 git pull
