@@ -1,17 +1,17 @@
 ## File Browser
 
-> Current path: http://172.18.220.5/_public/
+> Current path: public
 
-- [books](http://172.18.220.5/_public/books)
+- [**books**](http://172.18.220.5/public/books)
 
-- [datasets](http://172.18.220.5/_public/datasets)
+- [**datasets**](http://172.18.220.5/public/datasets)
 
-- [games](http://172.18.220.5/_public/games)
+- [**games**](http://172.18.220.5/public/games)
 
-- [hfut_courses](http://172.18.220.5/_public/hfut_courses)
+- [**hfut_courses**](http://172.18.220.5/public/hfut_courses)
 
-- [language](http://172.18.220.5/_public/language)
+- [**language**](http://172.18.220.5/public/language)
 
-- [mooc](http://172.18.220.5/_public/mooc)
+- [**mooc**](http://172.18.220.5/public/mooc)
 
-- [softwares](http://172.18.220.5/_public/softwares)
+- [**softwares**](http://172.18.220.5/public/softwares)

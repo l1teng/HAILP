@@ -20,9 +20,21 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=litun5315.hfutail-page)
 
+## News
+
+```
+
+```
+
+<br>
+
 ## Primary Interest
 
+<br>
+
 Our primary work particularly includes the **Academic Research** and **University Student Contest**.
+
+<br>
 
 #### **Academic Research**
 
@@ -32,6 +44,8 @@ particularly in the domains of,
 
 - Machine Learning and Deep learning
 
+<br>
+
 #### **University Student Contest**
 
 here are some recommand options,
@@ -40,3 +54,20 @@ here are some recommand options,
 
 - Undergraduate Information Security Competition
 
+<br>
+
+## Contricutions
+
+<br>
+
+Welcome to Contribute to this website, you can pull requests or raise issues here, [hfutail-page](https://github.com/litun5315/hfutail-page/).
+
+<br>
+
+**TO-DO:**
+
+```
+- add support for public source index update scripts
+- add support for dynamic device status label
+- add support for mirrors sync status label
+```

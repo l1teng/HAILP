@@ -1,11 +1,21 @@
 site_name: HFUTAIL
 site_url: http://172.18.220.5/
-theme: cluster
+theme: 
+        # name: cluster
+        name: bootstrap
+        include_homepage_in_sidebar: False
 
 nav:
-        - About: index.md
-        - Members: members/index.md
-        - Devices: devices/index.md
+- About: index.md
+- Members: members/index.md
+- Devices: devices/index.md
+- Public: 
         - Public: public/index.md
+        - Books: public/books.md
+        - Datasets: public/datasets.md
+        - Softwares: public/softwares.md
+- Mirrors: 
         - Mirrors: mirrors/index.md
+        - Anaconda: mirrors/anaconda.md
+        - Apt: mirrors/apt.md
 
