@@ -1,0 +1,11 @@
+site_name: HFUTAIL
+site_url: http://172.18.220.5/
+theme: cluster
+
+nav:
+        - About: index.md
+        - Members: members/index.md
+        - Devices: devices/index.md
+        - Public: public/index.md
+        - Mirrors: mirrors/index.md
+
