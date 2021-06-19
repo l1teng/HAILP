@@ -3,10 +3,13 @@ site_url: http://172.18.220.5/
 theme: 
         # name: cluster
         name: bootstrap
+        # name: material
         include_homepage_in_sidebar: False
+        # logo: imgs/hfut_logo.png
+        # favicon: imgs/hfut_logo.png
 
 nav:
-- About: index.md
+- Home: index.md
 - Members: members/index.md
 - Devices: devices/index.md
 - Public: 
@@ -14,6 +17,7 @@ nav:
         - Books: public/books.md
         - Datasets: public/datasets.md
         - Softwares: public/softwares.md
+        - Courses: public/hfut_courses.md
 - Mirrors: 
         - Mirrors: mirrors/index.md
         - Anaconda: mirrors/anaconda.md
