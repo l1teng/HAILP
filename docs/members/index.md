@@ -15,6 +15,8 @@
               </p>
               <p align='center'>人工智能与大数据校企共建创客实验室负责人
               </p>
+              <p align='center'><b>研究方向</b>：机器学习算法研究与应用，自然语言处理，图像识别，目标跟踪等。
+              </p>
             </td>
             <td>
               <center><img width="190" alt="liujian" src="imgs/mr_liu.jpg"></center>              
@@ -38,6 +40,8 @@
               </p>
               <p align='center'>人工智能与大数据校企共建创客实验室指导老师
               </p>
+              <p align='center'><b>研究方向</b>：群智能优化算法、无线传感器网络、机器学习。
+              </p>
             </td>
             <td>
               <center><img width="190" alt="liujian" src="imgs/blank.JPG"></center>              
@@ -57,9 +61,12 @@
                     [<a href="http://ci.hfut.edu.cn/2020/1209/c11506a245796/page.htm"><b>page</b></a>] &nbsp/&nbsp
                     <b>QQ</b>: 727906321
               </p><br>
-              <p align='center'>博士，讲师，硕士生导师
+              <p align='center'>博士，讲师
               </p>
               <p align='center'>人工智能与大数据校企共建创客实验室指导老师
+              </p>
+              </p>
+              <p align='center'><b>研究方向</b>：阵列信号处理、声源定位、主瓣干扰抑制、天线设计。
               </p>
             </td>
             <td>
