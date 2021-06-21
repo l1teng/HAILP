@@ -11,6 +11,8 @@ theme:
 nav:
 - Home: index.md
 - Members: members/index.md
+- Photos: photos/index.md
+- Blogs: blogs/index.md
 - Devices: devices/index.md
 - Public: 
         - Public: public/index.md
@@ -22,4 +24,5 @@ nav:
         - Mirrors: mirrors/index.md
         - Anaconda: mirrors/anaconda.md
         - Apt: mirrors/apt.md
+- Miscs: miscs/index.md
 
