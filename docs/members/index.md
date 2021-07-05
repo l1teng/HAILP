@@ -89,18 +89,20 @@
 
 #### 2020
 
-[**Liangyu Chen**]() &nbsp;
+[**Liangyu Chen**](https://github.com/mikechensir) &nbsp; | &nbsp;
 
 <br>
 
 #### 2019
 
+[**Hao Zhang**](https://github.com/Joker-5) &nbsp; | &nbsp;
+
 <br>
 
 #### 2018
 
-[**Wen Cheng**]() &nbsp; 
-[**Teng Li**](http://info.terrytengli.com) &nbsp;
+[**Wen Cheng**](https://github.com/Sensente) &nbsp; | &nbsp;
+[**Teng Li**](http://info.terrytengli.com) &nbsp; | &nbsp;
 
 <br>
 
@@ -110,14 +112,14 @@
 
 #### 2017
 
-[**Jianjun Zhou**]() &nbsp;
-[**Zhanyu Ma**]() &nbsp;
+[**Jianjun Zhou**](https://github.com/Xu-teacher) &nbsp; | &nbsp;
+[**Zhanyu Ma**](https://github.com/mzyICT) &nbsp; | &nbsp;
 
 <br>
 
 #### 2016
 
-[**Rui Ding**]() &nbsp;
+[**Rui Ding**](https://github.com/dingmiaomiao) &nbsp; | &nbsp;
 
 <br>
 

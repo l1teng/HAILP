@@ -3,10 +3,10 @@ import re
 import glob
 from posixpath import curdir
 
-base_url = 'http://172.18.220.5/_public/'
-md_base_url = 'http://172.18.220.5/public/'
+base_url = 'http://tencent.terrytengli.com:3080/_public/'
+md_base_url = 'http://tencent.terrytengli.com:3080/public/'
 public_path = '/media/disk1/nas/ail/public/'
-workspace_path = '/media/disk1/nas/ail/ail_page/docs/public/'
+workspace_path = '/media/disk1/nas/ail/ail_page_outter/docs/public/'
 exclude_section = ['imgs']
 
 def update_public_index(fold_path):
@@ -73,7 +73,7 @@ def update_software_index(fold_path, base_url):
 
 def update_hfut_courses_index(fold_path, base_url):
     EXCLUDE_FILES = ['gen-md.py', 'readme.md', 'README.md', 'update.bat', 'LICENSE', 'mkdocs.yml']
-    BIN_URL_PREFIX = 'https://172.18.220.5/_public/hfut_courses/'
+    BIN_URL_PREFIX = 'https://tencent.terrytengli.com:3080/_public/hfut_courses/'
 
     def gen_course_md(course_path):
         cur_course_index = '## File Browser of {}\n'.format(course_path.split('/')[-1])

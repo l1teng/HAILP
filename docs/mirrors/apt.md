@@ -6,58 +6,37 @@
 
 #### Configuration
 
-```bash
-deb http://us.archive.ubuntu.com/ubuntu trusty main universe
+- **HFUT inner net**
+```
+# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
+deb http://172.18.220.5/ubuntu/ bionic main restricted universe multiverse
+# deb-src http://172.18.220.5/ubuntu/ bionic main restricted universe multiverse
+deb http://172.18.220.5/ubuntu/ bionic-updates main restricted universe multiverse
+# deb-src http://172.18.220.5/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://172.18.220.5/ubuntu/ bionic-backports main restricted universe multiverse
+# deb-src http://172.18.220.5/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://172.18.220.5/ubuntu/ bionic-security main restricted universe multiverse
+# deb-src http://172.18.220.5/ubuntu/ bionic-security main restricted universe multiverse
 
-# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
-# newer versions of the distribution.
-deb http://172.18.220.5/ubuntu bionic main restricted
-# deb-src http://172.18.220.5/ubuntu bionic main restricted
+# 预发布软件源，不建议启用
+# deb http://172.18.220.5/ubuntu/ bionic-proposed main restricted universe multiverse
+# deb-src http://172.18.220.5/ubuntu/ bionic-proposed main restricted universe multiverse
+```
 
-## Major bug fix updates produced after the final release of the
-## distribution.
-deb http://172.18.220.5/ubuntu bionic-updates main restricted
-# deb-src http://172.18.220.5/ubuntu bionic-updates main restricted
 
-## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
-## team. Also, please note that software in universe WILL NOT receive any
-## review or updates from the Ubuntu security team.
-deb http://172.18.220.5/ubuntu bionic universe
-# deb-src http://172.18.220.5/ubuntu bionic universe
-deb http://172.18.220.5/ubuntu bionic-updates universe
-# deb-src http://172.18.220.5/ubuntu bionic-updates universe
+- **HFUTAIL inner net**
+```
+# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
+deb http://192.168.1.80/ubuntu/ bionic main restricted universe multiverse
+# deb-src http://192.168.1.80/ubuntu/ bionic main restricted universe multiverse
+deb http://192.168.1.80/ubuntu/ bionic-updates main restricted universe multiverse
+# deb-src http://192.168.1.80/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://192.168.1.80/ubuntu/ bionic-backports main restricted universe multiverse
+# deb-src http://192.168.1.80/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://192.168.1.80/ubuntu/ bionic-security main restricted universe multiverse
+# deb-src http://192.168.1.80/ubuntu/ bionic-security main restricted universe multiverse
 
-## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
-## team, and may not be under a free licence. Please satisfy yourself as to
-## your rights to use the software. Also, please note that software in
-## multiverse WILL NOT receive any review or updates from the Ubuntu
-## security team.
-deb http://172.18.220.5/ubuntu bionic multiverse
-# deb-src http://172.18.220.5/ubuntu bionic multiverse
-deb http://172.18.220.5/ubuntu bionic-updates multiverse
-# deb-src http://172.18.220.5/ubuntu bionic-updates multiverse
-
-## N.B. software from this repository may not have been tested as
-## extensively as that contained in the main release, although it includes
-## newer versions of some applications which may provide useful features.
-## Also, please note that software in backports WILL NOT receive any review
-## or updates from the Ubuntu security team.
-deb http://172.18.220.5/ubuntu bionic-backports main restricted universe multiverse
-# deb-src http://172.18.220.5/ubuntu bionic-backports main restricted universe multiverse
-
-## Uncomment the following two lines to add software from Canonical's
-## 'partner' repository.
-## This software is not part of Ubuntu, but is offered by Canonical and the
-## respective vendors as a service to Ubuntu users.
-# deb http://archive.canonical.com/ubuntu bionic partner
-# deb-src http://archive.canonical.com/ubuntu bionic partner
-
-deb http://172.18.220.5/ubuntu bionic-security main restricted
-# deb-src http://172.18.220.5/ubuntu bionic-security main restricted
-deb http://172.18.220.5/ubuntu bionic-security universe
-# deb-src http://172.18.220.5/ubuntu bionic-security universe
-deb http://172.18.220.5/ubuntu bionic-security multiverse
-# deb-src http://172.18.220.5/ubuntu bionic-security multiverse
-deb [arch=amd64] https://mirrors.ustc.edu.cn/docker-ce/linux/ubuntu bionic stable
-# deb-src [arch=amd64] https://mirrors.ustc.edu.cn/docker-ce/linux/ubuntu bionic stable
+# 预发布软件源，不建议启用
+# deb http://192.168.1.80/ubuntu/ bionic-proposed main restricted universe multiverse
+# deb-src http://192.168.1.80/ubuntu/ bionic-proposed main restricted universe multiverse
 ```
